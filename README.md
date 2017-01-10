@@ -1,2 +1,5 @@
 # Functioneel-Programmeren-1
-TINPRO01-7
+
+Vakcode:    TINPRO01-7
+Docent:     oelew
+
